@@ -1,0 +1,6 @@
+@DrustveniDomoviAPI_HostAddress = http://localhost:5062
+
+GET {{DrustveniDomoviAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
