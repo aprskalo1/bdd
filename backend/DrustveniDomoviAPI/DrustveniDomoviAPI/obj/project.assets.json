@@ -460,24 +460,33 @@
     ]
   },
   "packageFolders": {
-    "/Users/aprskalo/.nuget/packages/": {}
+    "C:\\Users\\Ante Prskalo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aprskalo/Dev/bdd/backend/DrustveniDomoviAPI/DrustveniDomoviAPI/DrustveniDomoviAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Ante Prskalo\\OneDrive\\Radna površina\\bdd\\backend\\DrustveniDomoviAPI\\DrustveniDomoviAPI\\DrustveniDomoviAPI.csproj",
       "projectName": "DrustveniDomoviAPI",
-      "projectPath": "/Users/aprskalo/Dev/bdd/backend/DrustveniDomoviAPI/DrustveniDomoviAPI/DrustveniDomoviAPI.csproj",
-      "packagesPath": "/Users/aprskalo/.nuget/packages/",
-      "outputPath": "/Users/aprskalo/Dev/bdd/backend/DrustveniDomoviAPI/DrustveniDomoviAPI/obj/",
+      "projectPath": "C:\\Users\\Ante Prskalo\\OneDrive\\Radna površina\\bdd\\backend\\DrustveniDomoviAPI\\DrustveniDomoviAPI\\DrustveniDomoviAPI.csproj",
+      "packagesPath": "C:\\Users\\Ante Prskalo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ante Prskalo\\OneDrive\\Radna površina\\bdd\\backend\\DrustveniDomoviAPI\\DrustveniDomoviAPI\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/aprskalo/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Ante Prskalo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Users\\Ante Prskalo\\OneDrive\\Radna površina\\nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -529,7 +538,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
