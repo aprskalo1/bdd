@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DrustveniDomoviAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2879e795f8e3db8f2ad3148b1d5d21d1c090129")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7658babb4bdd39772e0a1a1e771d8ce1d18cc48")]
 [assembly: System.Reflection.AssemblyProductAttribute("DrustveniDomoviAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DrustveniDomoviAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
